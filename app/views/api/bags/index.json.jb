@@ -1,0 +1,6 @@
+@bags.map do |bag| {
+  color: bag.color,
+  size: bag.size,
+  price: bag.price
+}
+end
